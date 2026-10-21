@@ -1,5 +1,6 @@
 # IT TICKET ANALYSIS PROJECT (EXCEL)
-![alt text](DASHBOARD_IMAGE-1.png)
+<img width="1852" height="748" alt="Screenshot 2026-10-16 055522" src="https://github.com/user-attachments/assets/1adac528-269f-4a95-8fd5-3f39eaa31e01" />
+
 An end-to-end Excel project that analyses 97,498 IT support tickets (2016-2020) to improve resolution time, agent performance and satisfaction.
 
 ## Project Overview
