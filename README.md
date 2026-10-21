@@ -22,7 +22,7 @@ An end-to-end Excel project that analyses 97,498 IT support tickets (2016-2020) 
 - Tickets grew 123% (13,051 to 29,088) but average resolution time stayed flat at about 4.55 days
 - 30% of tickets (29,410) have no priority assigned
 - Hardware (7.63 days) and System (6.62 days) are the slowest categories; Login Access takes only 0.31 days
-- Average satisfaction rose from 3.98 to 4.16 and is about 4.10 overall
+- Average satisfaction grew from 3.98 to 4.16 and is about 4.10 overall
 - Resolution time and satisfaction have a moderate negative correlation (r = -0.40), which does not prove causation
 
 ## Recommendations
@@ -39,7 +39,8 @@ Microsoft Excel (pivot tables, pivot charts, slicers, VLOOKUP, CORREL), Word, Po
 - Excel file: pivots, charts and dashboard
 - Word file: questions and answers
 - PowerPoint file: presentation
-- Dashboard_Photo.png: dashboard preview
-
+- Dashboard_image: dashboard preview
+- Dashboard_video: dashboard dynamic preview
+  
 ## Author
 Palak Singh
