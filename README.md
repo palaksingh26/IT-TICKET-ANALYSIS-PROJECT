@@ -31,6 +31,8 @@ Microsoft Excel: Pivot Tables, Pivot Charts, Slicers, XLOOKUP, CORREL, Dashboard
 - [Dashboard image](./DASHBOARD_IMAGE.png)
 - [Dashboard video](./DASHBOARD_VIDEO.mp4)
 
+Note: The Excel file is large, so download it and open it in desktop Excel. A preview is available in the dashboard image and video.
+
 ## Author
 Palak Singh
 
