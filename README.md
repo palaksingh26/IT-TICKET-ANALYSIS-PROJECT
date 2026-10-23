@@ -24,16 +24,15 @@ An end-to-end Excel project that analyses *97,498 IT support tickets (2016–202
 Microsoft Excel: Pivot Tables, Pivot Charts, Slicers, XLOOKUP, CORREL, Dashboard
 
 ## Files
-- [Excel dashboard file] (./IT_TICKET_ANALYSIS_PROJECT_EXCEL_FILE.xlsx)
-- [Presentation] (./IT_TICKET_ANALYSIS_PROJECT_PRESENTATION_FILE.pptx)
-- [Documentation] (./IT_TICKET_ANALYSIS_PROJECT_DOCUMENTATION_FILE.docx)
-- [Dashboard image] (./DASHBOARD_IMAGE.png) 
-- [Dashboard_video] (./DASHBOARD_VIDEO.)
+- [Excel dashboard file](./IT_TICKET_ANALYSIS_PROJECT_EXCEL_FILE.xlsx)
+- [Presentation](./IT_TICKET_ANALYSIS_PROJECT_PRESENTATION_FILE.pptx)
+- [Documentation](./IT_TICKET_ANALYSIS_PROJECT_DOCUMENTATION_FILE.docx)
+- [Dashboard image](./DASHBOARD_IMAGE.png)
+- [Dashboard video](./DASHBOARD_VIDEO.mp4)
 
 ## Author
-Palak Singh
-Email-palaks626490@gmail.com
-Linkedin-
+Palak singh 
 
-
+- Email: palaks626490@gmail.com
+- LinkedIn: [Palak Singh](https://www.linkedin.com/in/palak-singh-0b1645428)
 
